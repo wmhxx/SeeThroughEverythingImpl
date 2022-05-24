@@ -1,4 +1,4 @@
-package com.wmhxx.tool.easyExcel;
+package wmhxx.tool.easyExcel;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.wmhxx;
+package wmhxx;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
