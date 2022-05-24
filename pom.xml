@@ -8,6 +8,7 @@
     <version>1.0.0</version>
     <modules>
         <module>springboot-poi</module>
+        <module>springboot-oss</module>
     </modules>
     <name>seeThroughEverythingImpl</name>
     <description>seeThroughEverythingImpl</description>
